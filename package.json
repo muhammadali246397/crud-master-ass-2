@@ -18,13 +18,13 @@
     "joi": "^17.11.0",
     "mongodb": "^6.3.0",
     "mongoose": "^8.0.2",
-    "node": "^21.2.0",
-    "typescript": "^5.3.2"
+    "node": "^21.2.0"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
     "@types/cors": "^2.8.17",
     "@types/express": "^4.17.21",
-    "bcrypt": "^5.1.1"
+    "bcrypt": "^5.1.1",
+    "typescript": "^5.3.2"
   }
 }
